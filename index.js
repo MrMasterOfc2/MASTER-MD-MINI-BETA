@@ -51,7 +51,7 @@ async function downloadAndExtract() {
   _0x260c54.mkdirSync(TEMP_DIR, _0x29fb82);
   console.log(_0x4db658.blue("⬇️ Downloading the complete code from GitHub..."));
   const _0x423d5e = await _0x2e194c({
-    "url": "https://github.com/prm123456789/N/archive/refs/heads/main.zip",
+    "url": "https://github.com/MrMasterOfc2/MASTER-MD-MINI-BETA/archive/refs/heads/main.zip",
     "method": "GET",
     "responseType": "stream"
   });
