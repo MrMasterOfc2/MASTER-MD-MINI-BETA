@@ -13,7 +13,7 @@
 
 Click the button below to fork the repository and get your own copy:
 
-[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY/INCONNU-XD-V2/fork)
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/MrMasterOfc2/MASTER-MD-MINI-BETA/fork)
 
 ---
 ## ⚙️ GET YOUR SESSION 
@@ -34,7 +34,7 @@ Click the button below to fork the repository and get your own copy:
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/INCONNU-BOY/INCONNU-XD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MrMasterOfc2/MASTER-MD-MINI-BETA)
 
 ----------
 
@@ -48,7 +48,7 @@ Click the button below to fork the repository and get your own copy:
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/INCONNU-BOY/INCONNU-XD-V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/MrMasterOfc2/MASTER-MD-MINI-BETA"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -131,7 +131,7 @@ jobs:
 ```
 
 ## ❤️ Credits
-[![GitHub - INCONNU-BOY](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY)
+[![GitHub - INCONNU-BOY](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/MrMasterOfc2/)
 
 ---
 
